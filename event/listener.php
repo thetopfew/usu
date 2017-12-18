@@ -41,8 +41,8 @@ class listener implements EventSubscriberInterface
 	/* @var \phpbb\db\driver\driver_interface */
 	private $db;
 
-    /** @var \phpbb\language\language */
-    private $language;
+    	/** @var \phpbb\language\language */
+    	private $language;
 
 	/**
 	* Current $phpbb_root_path
